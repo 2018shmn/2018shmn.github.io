@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Sophia's homepage
 description: my project website!
+markdown: kramdown
