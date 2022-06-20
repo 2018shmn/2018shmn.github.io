@@ -1,2 +1,2 @@
 # my website 
-<img src="flower.jpg" alt="first try adding photo">
+<img src="src/web/website/img/flower.jpg" alt="header">
